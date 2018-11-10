@@ -1,0 +1,25 @@
+{
+  "name": "herokukeepalive",
+  "version": "1.0.0",
+  "description": "Keeping my heroku apps from sleeping!",
+  "main": "herokukeepalive.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeyDevs/herokukeepalive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeyDevs/herokukeepalive/issues"
+  },
+  "homepage": "https://github.com/MikeyDevs/herokukeepalive#readme"
+}
